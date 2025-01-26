@@ -1,3 +1,5 @@
+@import url(./reset.css);
+
 @font-face {
     font-family: 'Outfit';
     src: url('../style/fonts/Outfit-VariableFont_wght.ttf') format('truetype');
